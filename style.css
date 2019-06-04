@@ -1,0 +1,72 @@
+.block1 {
+	display: flex;
+	background: red;
+	height: 550px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.main1 {
+
+}
+.img1 {
+	background-image: url(logo.png);
+	height: 398px;
+	width: 407px;
+}
+.blockmain {
+	background: orange;
+	height: 90px;
+	width: 385px;
+	margin-left: 65px;
+	display: flex;
+}
+.blockchild1 {
+	height: 50px;
+	margin: 5px;
+	width: 80px;
+	background: yellow;
+}
+.blockchild2 {
+	height: 50px;
+	margin: 5px;
+	width: 80px;
+	background: yellow;
+}
+.blockchild3 {
+	height: 50px;
+	margin: 5px;
+	width: 80px;
+	background: yellow;
+}
+body {
+	margin: 0;
+}
+.prize {
+	height: 20px;
+	width: 300px;
+	background: blue;
+	margin-top: 10px;
+	margin-left: 100px;
+}
+.prize1 {
+	height: 20px;
+	width: 300px;
+	background: blue;
+	margin-left: 100px;
+}
+.block2 {
+	background: purple;
+	height: 200px;
+}
+.block3 {
+	background: wheat;
+	height: 120px;
+	display: flex;
+}
+.questionbar {
+	margin-left: 100px;
+	background: orange;
+	height: 50px;
+	width: 400px;
+	margin-top: 20px;
+}
